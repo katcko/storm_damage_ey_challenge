@@ -1,0 +1,11 @@
+.DS_Store
+datasets/
+guidance/
+supplementary_notebooks/
+notebooks/guidlines_notebook/
+notebooks/2_classes_exploration/
+notebooks/building_datasets/
+*.geojson
+.vscode/
+models/
+notebooks/generating_tiles/
