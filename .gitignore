@@ -5,7 +5,8 @@ supplementary_notebooks/
 notebooks/guidlines_notebook/
 notebooks/2_classes_exploration/
 notebooks/building_datasets/
-notebooks/local_training
+notebooks/local_training/*
+!notebooks/local_training/local_object_detection.ipynb
 *.geojson
 .vscode/
 models/
