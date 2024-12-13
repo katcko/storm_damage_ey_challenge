@@ -1,14 +1,32 @@
+# === OS Files ===
 .DS_Store
-datasets/
+
+# === VS code workspace settings ===
+.vscode/
+
+# === Models ===
+models/
+
+# === Best Training Results ===
+Training_results/
+
+# === Personal Files === 
+*.pages
 guidance/
 supplementary_notebooks/
 notebooks/guidlines_notebook/
 notebooks/2_classes_exploration/
-notebooks/building_datasets/
+
+# === Local Training Files ===
+# Ignore all files in directory notebooks/local_training, except for the notebook file 'local_object_detection.ipynb'
 notebooks/local_training/*
 !notebooks/local_training/local_object_detection.ipynb
+
+# === Dataset Files ===
+datasets/
+notebooks/building_datasets/
+# Exclusing all .geojson files
 *.geojson
-.vscode/
-models/
+
+# === Technical Notebooks ===
 notebooks/generating_tiles/
-*.pages
