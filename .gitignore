@@ -1,14 +1,11 @@
 # === OS Files ===
-.DS_Store
+
 
 # === VS code workspace settings ===
-.vscode/
+.DS_Store
 
 # === Models ===
 models/
-
-# === Best Training Results ===
-Training_results/
 
 # === Personal Files === 
 *.pages
