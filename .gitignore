@@ -1,5 +1,5 @@
 # === OS Files ===
-
+# placeholder
 
 # === VS code workspace settings ===
 .DS_Store
@@ -18,6 +18,9 @@ notebooks/2_classes_exploration/
 # Ignore all files in directory notebooks/local_training, except for the notebook file 'local_object_detection.ipynb'
 notebooks/local_training/*
 !notebooks/local_training/local_object_detection.ipynb
+
+# === Training Results ===
+notebooks/google_colab/training_results/
 
 # === Dataset Files ===
 datasets/
