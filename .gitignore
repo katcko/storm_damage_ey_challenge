@@ -24,6 +24,7 @@ notebooks/google_colab/training_results/
 
 # === Dataset Files ===
 datasets/
+notebooks/building_tiles/
 notebooks/building_datasets/
 # Exclusing all .geojson files
 *.geojson
