@@ -14,3 +14,8 @@ Object detection phase 1 - training a model to detect objects undamaged resident
 7. Annotate images in roboflow manualy
 8. Use extended dataset with a better class balance in the model training
 9. Repeat steps 1. to 8
+
+## TODOs
+
+- [ ]: Check the number of background imaged in Roboglow vs number images detected by YOLO training algorithm
+
