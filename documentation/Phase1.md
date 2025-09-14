@@ -17,5 +17,4 @@ Object detection phase 1 - training a model to detect objects undamaged resident
 
 ## TODOs
 
-- [ ]: Check the number of background imaged in Roboglow vs number images detected by YOLO training algorithm
-
+- Use the best pre-trained model to run local interference on the 1000-1200, then upload them to roboflow and create a new version fo a dataset v21
