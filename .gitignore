@@ -29,8 +29,9 @@ notebooks/building_datasets/
 # Exclusing all .geojson files
 *.geojson
 
-# Excluding all .jpg files
+# Excluding all .jpg & .txt files
 *.jpg
+*.txt
 
 # === Technical Notebooks ===
 notebooks/generating_tiles/
