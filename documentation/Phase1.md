@@ -18,3 +18,5 @@ Object detection phase 1 - training a model to detect objects undamaged resident
 ## TODOs
 
 - Use the best pre-trained model to run local interference on the 1000-1200, then upload them to roboflow and create a new version fo a dataset v21
+- v20 dataset n size model: validation mAP50 = 0.713, test mAP50 = 0.537 at (conf=0.25, iou=0.7)
+- v21 dataset n size model: validation mAP50 = 0.781, test mAP50 = 0.692 at (conf=0.25, iou=0.7)
