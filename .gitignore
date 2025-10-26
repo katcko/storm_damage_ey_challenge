@@ -27,6 +27,7 @@ datasets/
 notebooks/building_tiles/
 notebooks/building_datasets/
 trained_model/
+notebooks/local/runs/
 # Exclusing all .geojson files
 *.geojson
 
